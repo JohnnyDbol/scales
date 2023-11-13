@@ -1,6 +1,6 @@
 import React from "react";
 import Guitar from "./Guitar";
-import StringLabels from "./StringLabels";
+
 import { useState } from "react";
 
 const initialState = {

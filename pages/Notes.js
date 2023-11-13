@@ -1,6 +1,3 @@
-// Notes.js
-import React from "react";
-
 const Notes = ({ notes }) => {
   return (
     <>

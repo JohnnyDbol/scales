@@ -1,4 +1,3 @@
-import React from "react";
 import Fret from "./Fret"; // assuming Fret is in the same directory
 
 const FretStack = ({ fretData }) => {

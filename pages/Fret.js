@@ -1,5 +1,3 @@
-import React from "react";
-
 const Fret = ({ showDot }) => {
   const showBlueDot = showDot[0] && showDot[1] === "blue";
   const showRedDot = showDot[0] && showDot[1] === "red";

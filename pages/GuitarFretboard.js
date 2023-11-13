@@ -1,5 +1,3 @@
-// GuitarFretboard.js
-import React from "react";
 import Fret from "./Fret";
 
 const GuitarFretboard = ({ children }) => {

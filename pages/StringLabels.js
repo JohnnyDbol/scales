@@ -1,5 +1,3 @@
-import React from "react";
-
 const StringLabels = () => {
   const stringNames = ["E", "B", "G", "D", "A", "E"]; // Standard tuning labels
 

@@ -1,4 +1,3 @@
-import React from "react";
 import FretStack from "./FretStack";
 import StringLabels from "./StringLabels";
 import FretMarkers from "./FretMarkers";

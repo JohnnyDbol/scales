@@ -1,5 +1,3 @@
-import React from "react";
-
 const FretMarkers = () => {
   const frets = [1, 3, 5, 7, 9, 12, 13, 15, 17, 19];
   return (
