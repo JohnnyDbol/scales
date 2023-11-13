@@ -1,5 +1,5 @@
 import React from "react";
-import Guitar from "./Guitar";
+import Guitar from "../components/Guitar";
 
 import { useState } from "react";
 
