@@ -424,15 +424,10 @@ const App = () => {
           ))}
         </ul>
       </details>
-      <button
-        onClick={() =>
-          test(tuning, scaleRoot, 0, generateMajorScale(0, interval), -1)
-        }
-      >
-        test
-      </button>
 
-      <div></div>
+      <a href="https://open.spotify.com/artist/7G0gs6hvhKjAwJPTMzzVZa?si=_KE464bJSN--Nn43dp8UFA">
+        by jonathan dunlap
+      </a>
     </>
   );
 };
